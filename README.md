@@ -6,13 +6,13 @@ Acting as an Instacart analyst, the objective is to extract practical insights t
 It also includes customer segmentation analysis, highlighting behavioral differences based on factors like brand loyalty, geographic location, age, income level, and family dynamics. 
 These findings will enable Instacart to design more personalized marketing efforts, increase sales, and improve the effectiveness of promotions and advertisements.
 # Key Questions
-What the busiest days of the week and hours of the day are (i.e., the days and times with the most orders) in order to schedule ads at times when there are fewer orders?
-Are there certain types of products that are more popular than others? 
-What’s the distribution among users in regards to their brand loyalty (i.e., how often do they return to Instacart)?
-Do people tend to spend more money at certain times of the day, and could this influence which products should be advertised during those periods?
-Are there differences in ordering habits based on a customer’s region?
-Is there a connection between age and family status in terms of ordering habits?
-What different classifications does the demographic information suggest? Age? Income? Certain types of goods? Family status?
+- What the busiest days of the week and hours of the day are (i.e., the days and times with the most orders) in order to schedule ads at times when there are fewer orders?
+- Are there certain types of products that are more popular than others? 
+- What’s the distribution among users in regards to their brand loyalty (i.e., how often do they return to Instacart)?
+- Do people tend to spend more money at certain times of the day, and could this influence which products should be advertised during those periods?
+- Are there differences in ordering habits based on a customer’s region?
+- Is there a connection between age and family status in terms of ordering habits?
+- What different classifications does the demographic information suggest? Age? Income? Certain types of goods? Family status?
 # Folders
 - 01 Project Management – Holds the project overview and supporting documents.
 - 02 Data – Divided into two subfolders (note: data files are not uploaded to GitHub due to size constraints):
@@ -25,7 +25,9 @@ What different classifications does the demographic information suggest? Age? In
 - 05 Sent to Client – Contains the final Excel presentation delivered to the client.
 # Coding Portion
   - Written in Python using Jupyter Notebook
+
 Utilized the following libraries:
+
   - Pandas: Used for handling, cleaning, and analyzing data.
   - NumPy: Supports numerical computations and efficient manipulation of arrays.
   - OS: Enables interaction with the operating system, such as managing files and directories.
